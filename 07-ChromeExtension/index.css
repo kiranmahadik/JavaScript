@@ -24,11 +24,17 @@ button{
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    border: none;
+    border: 1px solid #5f9341;
     font-weight: bold;
 }
 
 /* STYLE THE LIST ACCORDING TO THE DESIGN */
+
+#delete-btn {
+    background: white;
+    color: #5f9341;
+}
+
 ul {
     margin-top: 20px;
     list-style: none;
